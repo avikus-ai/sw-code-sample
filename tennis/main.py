@@ -1,4 +1,9 @@
-# -*- coding: utf-8 -*-
+"""
+1. 아래 코드를 보고 분석해 주세요.
+2. 코드를 보고 무슨 역할을 하는지 설명 해 보세요.
+3. 해당 코드에서 잘 정의된 부분과 아닌 부분을 설명해 보세요.
+4. 개선하면 좋은 부분을 찾아서 개선해 보세요.
+"""
 
 class TennisGameRefactored:
     score_names = {0: "Love", 1: "Fifteen", 2: "Thirty", 3: "Forty"}
